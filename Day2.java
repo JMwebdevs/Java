@@ -11,6 +11,8 @@ public class Day2 {
     //* Reference */ 
     String name = "John Mark Lapenid";
     String email = "Lapenidjohnmark7@gmail.com";
+    // array
+    // custom
 
     System.out.println("Name: " + name);
     System.out.println("Middle Initial: " + middleInitial);
