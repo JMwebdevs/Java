@@ -23,7 +23,7 @@ public class Day4 {
     System.out.print("Enter a Ajective (description): ");
     String adjective3 = scan.nextLine();
 
-    System.out.println("Today i went to a " + adjective1 + " school.");
+    System.out.println("\nToday i went to a " + adjective1 + " school.");
     System.out.println("In School, I saw a " + noun + ".");
     System.out.println(noun + "was " + adjective2 + " and " + verb + " !");
     System.out.println("I was " + adjective3 + "!");
